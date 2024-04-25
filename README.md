@@ -1,7 +1,7 @@
 # miniguiinstall
 ## 1：安装Ubuntu系统（虚拟机或双系统）
 
-#### 目前使用的是Ubuntu 18.04 LTS
+#### 目前使用的是Ubuntu 16.04 LTS
 
 #### 系统下载地址：[点击此处](https://releases.ubuntu.com/)
 
@@ -110,7 +110,7 @@ sudo apt install libminigui-ths-dev
 sudo apt install ministudio
 ```
 
-### 3：下载Eclips软件和插件（也可以找其他同仁要安装包和插件）
+### 3：下载Eclips软件和插件
 
 ####  安装Eclipse
     请访问 eclipse 网站http://www.eclipse.org，了解安装 Eclipse 的详细信息。
