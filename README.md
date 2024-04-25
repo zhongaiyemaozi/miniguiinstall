@@ -125,5 +125,5 @@ tar xvf ministudio-eclipse-plugin-1.2.1.tar.gz
 
 #### 将文件从ministudio-eclipse-plugin目录复制到eclipse/dropins.后者是Eclipse插件所在的目录：
 ```
-cp ministudio-eclipse-plugin-1.2.1/org.minigui.eclipse.cdt.mstudio_1.2.1.jar eclipse/dropins
+cp ministudio-eclipse-plugin-1.2.1/org.minigui.eclipse.cdt.mstudio_1.2.1.jar /usr/share/eclipse/dropins/
 ```
