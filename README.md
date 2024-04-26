@@ -112,10 +112,6 @@ sudo apt install ministudio
 
 ### 3：下载Eclips软件和插件
 
-####  安装Eclipse
-    请访问 eclipse 网站http://www.eclipse.org，了解安装 Eclipse 的详细信息。
-    CDT 9.3 或更高版本：http://www.eclipse.org/cdt/
-    Eclipse SDK 4.7.2 或更高版本：http://download.eclipse.org/eclipse/downloads/
 
 #### 安装miniStudio的Eclipse插件
 ```
